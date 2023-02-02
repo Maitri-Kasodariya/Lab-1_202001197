@@ -21,3 +21,19 @@ __Non-Functional Requirements:__
 - The Platforn for LIS should be a web application using HTML 5.  
 - This web application should run only within the institute LAN.  
 - Cofidential information like passwords should not be stored in plain text.
+
+# **Answer 2:**
+__Scope:__ 
+- If app is designed with low-latency for android users to work in real time.It's real time working will increase it's scope for the user's in the market.  
+- It's scope before updating may be for less users as compared to after updation.
+
+__Features:__  
+- It recognises key sound events of interest to the community and gives immediate alertsto the user.
+- It can be optimised to low latency for real time use.
+
+__Non Functional Aspects:__  
+- It should be able to address the everyday need of the user.
+- It should be impactful in their lives.
+- It uses artificial intelligence.
+- It should be able to detect key sound events such as car horns and babies.
+- It should be optimised in android with low latency such that it works in real time.
